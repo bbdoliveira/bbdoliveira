@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@bbdoliveira-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/bbdoliveira)](https://twitter.com/bbdoliveira) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-bonif%C3%A1cio-de-oliveira-05870b99/)](https://www.linkedin.com/in/bruno-bonif%C3%A1cio-de-oliveira-05870b99/) 
+[![Gmail Badge](https://img.shields.io/badge/-bbdoliveira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:bbdoliveira@gmail.com)
+
+
 <!--
 **bbdoliveira/bbdoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
